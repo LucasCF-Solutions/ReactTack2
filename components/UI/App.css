@@ -1,0 +1,22 @@
+.app-style {
+    display:list-item;
+    flex-direction: column;
+    width:auto;
+
+    height: auto;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    padding: 1.5rem;
+    margin: auto;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: #13447c;
+  }
+  .app-style h2 {
+    color: #13447c;
+    font-size: 1rem;
+    flex: 1;
+    margin: 0 1rem;
+    color: white;
+  }
